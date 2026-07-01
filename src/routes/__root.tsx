@@ -32,10 +32,14 @@ export const Route = createRootRoute({
       { title: "Cyber-Guesser // Decode the Code" },
       { name: "description", content: "A cyberpunk code-guessing quiz. Read snippets, predict their output, level up your dev intuition." },
       { property: "og:title", content: "Cyber-Guesser // Decode the Code" },
-      { property: "og:description", content: "Read code. Guess the output. Climb the leaderboard." },
+      { property: "og:description", content: "A cyberpunk code-guessing quiz. Read snippets, predict their output, level up your dev intuition." },
       { property: "og:type", content: "website" },
       { name: "twitter:card", content: "summary" },
       { name: "twitter:site", content: "@Lovable" },
+      { name: "twitter:title", content: "Cyber-Guesser // Decode the Code" },
+      { name: "twitter:description", content: "A cyberpunk code-guessing quiz. Read snippets, predict their output, level up your dev intuition." },
+      { property: "og:image", content: "https://pub-bb2e103a32db4e198524a2e9ed8f35b4.r2.dev/2ec1c65d-c709-4860-bb4d-909a263cbe2d/id-preview-b0ca527d--4e842f56-dd40-4cbb-bb35-f23b1f691b3d.lovable.app-1780262140767.png" },
+      { name: "twitter:image", content: "https://pub-bb2e103a32db4e198524a2e9ed8f35b4.r2.dev/2ec1c65d-c709-4860-bb4d-909a263cbe2d/id-preview-b0ca527d--4e842f56-dd40-4cbb-bb35-f23b1f691b3d.lovable.app-1780262140767.png" },
     ],
     links: [
       {
